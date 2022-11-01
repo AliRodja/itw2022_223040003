@@ -1,0 +1,20 @@
+catatan untuk menjadi programer pemula : 
+1. tentukan tujuan belajarnya programer
+untuk apa saya belajar programer, karena saya ingin masuk di perusahaan telkomsel di bagian programer sebagai pembuat serta mengembangkan aplikasi dengan metode yang modern.
+2. siapkan mental untuk belajar programer
+harus mengasah skill, dan juga jangan berhenti dtengah jalan saat mempelajarinya, dan juga jangan merasa jago ketika baru terjun di dunia percodingan.
+3. pilih bahasa pemrograman 
+dalam pemrograman memiliki bahsanya masing masing, seperti bahasa pemrograman untuk game, web, aplikasi, dan lain lain, karena semua bahasanya berbeda
+4. mencari sumber belajar
+belajar melalui media manapun, di youtube atau web web yg mempelajari tentang programing.
+5. buat sesuatu dari hasil belajar
+mebuat sesuatu yg berbeda dari apa yang sudah di pelajari, jangan sampai membuat tutorial yg sama dengan tutoril yg di ajarkan, usahkan beda...
+6. belajar membaca dokumentasi
+mencari informasi lebih baik melalui library, 
+7. belajar menghadapi error yang didapatkan
+carilah solusi untuk mengatasinya, jangan langsung bertanya kepada tmn atau siapapun, cobalah mencari tahu sediri.
+8. cari teman seperjuangan
+teman yang bisa mendapingi mu dalam mempelajari ilmu coding dan berusaha membuat project berdua untuk menghasilkan suatu karya yang dapat bermanfaat untuk masyarakat. dan juga untuk melatih komunikasi dan kolaborasi.
+9. bergabung di komunitas
+carilah komunitas dimanapun itu, baik online maupun offline. agar dapat sharing satu sama lain.
+10. kembalikan ilmu yang sudah didapatkan
