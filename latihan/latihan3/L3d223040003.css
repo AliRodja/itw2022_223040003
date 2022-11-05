@@ -1,0 +1,52 @@
+body {
+  font-family: Georgia;
+  background: white url(img/background.png) repeat-x;
+}
+
+h1 {
+  font-family: Comic Sans MS;
+  font-size: 60px;
+  color: darkblue;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+h3 a {
+  color: red;
+}
+h3 a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+h4 {
+  text-align: center;
+  font-style: italic;
+}
+
+p {
+  text-align: center;
+}
+
+p a {
+  text-decoration: none;
+  font-weight: bold;
+  color: blue;
+}
+
+p a:hover {
+  text-decoration: none;
+  background-color: blue;
+  color: white;
+}
+
+.paragraf1 {
+  color: salmon;
+}
+
+.paragraf2 {
+  text-align: right;
+  line-height: 30px;
+}
